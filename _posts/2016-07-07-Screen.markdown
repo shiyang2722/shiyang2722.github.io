@@ -3,7 +3,6 @@ layout:     post
 title:      "Linux screen"
 subtitle:   "this is subtitle"
 date:       2015-01-29 12:00:00
-author:     "John"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
