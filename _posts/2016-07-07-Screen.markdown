@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      "Linux Screen"
+subtitle:   "linux screen"
+date:       2017-07-07 12:00:00
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - Linux
+    - 技术
+---
+
 # Linux Screen 命令整理
     [daily@demo ~]$ screen --help
     Use: screen [-opts] [cmd [args]]       
