@@ -1,11 +1,11 @@
 ---
 layout:     post
 title:      "Linux screen"
-subtitle:   "this is subtitle"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
-    - 生活
+    - Linux
+    - 技术
 ---
 
 ## Linux Screen 命令整理
